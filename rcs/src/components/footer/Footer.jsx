@@ -3,7 +3,7 @@ import './footer.css';
 function Footer(){
     return(
         <footer>
-            <span><a href="">Rcs</a> copyrights@2024</span>
+            <span><a href="">Rcs</a> copyrights@2023</span>
         </footer>
     );    
 }
